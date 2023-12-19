@@ -1,5 +1,9 @@
 # Python
 
+## 🎲 Randomizator
+► [Genera una lista de numeros aleatorios](https://github.com/gjmacias/randomizator)
+<br>
+<br>
 ## 📷 QR_generator
 ► [Crea un codigo QR a partir de una URL](https://github.com/gjmacias/QR_generator)
 <br>
